@@ -30,6 +30,10 @@ The modern trap is using high-cost System 2 to verify what AI produces with zero
 
 That loop is the Cognitive Ceiling.
 
+![diagram](images/your-brain-is-a-legacy-system-time-diagram.svg)
+
+*Processor to Architect: the upgrade path, and the three moves that get you there.*
+
 ## From Processor to Architect
 
 Most leaders are still operating as Processors. They live inside the work, competent and quietly exhausted. The alternative isn’t to work less. It’s to change the role entirely.

@@ -1,0 +1,40 @@
+<svg viewBox="0 0 700 180" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="700" height="180" fill="#FFFFFF" />
+
+  <!-- spectrum bar: three equal zones, x 40-660, width 620, split into 3x ~206.67 -->
+  <!-- zone 1: too abstract -->
+  <rect x="40" y="50" width="206" height="80" fill="#7BA3AD" />
+  <!-- zone 2: sweet spot -->
+  <rect x="246" y="50" width="207" height="80" fill="#FC7142" />
+  <!-- zone 3: too detailed -->
+  <rect x="453" y="50" width="207" height="80" fill="#CDACFE" />
+
+  <!-- thin outline over full bar -->
+  <rect x="40" y="50" width="620" height="80" fill="none" stroke="rgba(17,17,17,0.12)" stroke-width="1" />
+  <line x1="246" y1="50" x2="246" y2="130" stroke="#FFFFFF" stroke-width="2" />
+  <line x1="453" y1="50" x2="453" y2="130" stroke="#FFFFFF" stroke-width="2" />
+
+  <!-- diamond marker centered in middle zone -->
+  <rect x="335" y="26" width="28" height="28" fill="#4A4A4D" transform="rotate(45 349 40)" />
+
+  <!-- zone 1 label -->
+  <text x="143" y="97" text-anchor="middle" font-family="'Rubik Mono One', monospace" font-size="12" fill="#FFFFFF">TOO ABSTRACT</text>
+  <text x="143" y="113" text-anchor="middle" font-family="'Manrope', sans-serif" font-size="11" fill="#FFFFFF">
+    <tspan x="143" dy="0">creative but</tspan>
+    <tspan x="143" dy="14">unusable</tspan>
+  </text>
+
+  <!-- zone 2 label -->
+  <text x="349" y="90" text-anchor="middle" font-family="'Rubik Mono One', monospace" font-size="13" fill="#FFFFFF">SWEET SPOT</text>
+  <text x="349" y="107" text-anchor="middle" font-family="'Manrope', sans-serif" font-size="11" fill="#FFFFFF">
+    <tspan x="349" dy="0">goals +</tspan>
+    <tspan x="349" dy="14">constraints</tspan>
+  </text>
+
+  <!-- zone 3 label -->
+  <text x="556" y="90" text-anchor="middle" font-family="'Rubik Mono One', monospace" font-size="12" fill="#4A4A4D">TOO DETAILED</text>
+  <text x="556" y="107" text-anchor="middle" font-family="'Manrope', sans-serif" font-size="11" fill="#4A4A4D">
+    <tspan x="556" dy="0">just reflects</tspan>
+    <tspan x="556" dy="14">you back</tspan>
+  </text>
+</svg>

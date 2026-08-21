@@ -12,6 +12,9 @@ I’ve spent years working as a **product manager and strategic consultant**, an
 
 That’s exactly why I insist on this starting point.
 
+![diagram](images/when-building-with-ai-start-with-diagram.svg)
+*Pen and paper first, AI second - not the other way around.*
+
 Brainstorming is the art of **expansion and focus**. Starting with AI feels efficient, but it often sends us in the wrong direction. I fall into this trap myself - generating, refining, and improving things that shouldn’t exist to begin with. AI expands possibilities before we’ve chosen what actually moves the needle.
 
 So I reverse the order and start with clarity.

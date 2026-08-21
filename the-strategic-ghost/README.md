@@ -16,6 +16,10 @@ Because the ghost is signal.
 
 ![](images/image-1.png)
 
+![diagram](images/the-strategic-ghost-diagram.svg)
+
+*Name it, limit its airtime, and the ghost loses power.*
+
 The best leaders don’t call it out aggressively. They surface it safely.
 
 They ask one simple question before diving into options: what feels risky to say out loud?

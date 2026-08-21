@@ -18,6 +18,10 @@ Because taste and sense are not the same thing. And the difference is your whole
 
 **Taste is a verdict.** It answers one question: is this output good? **Sense is an aim.** It answers a different one: is this even worth making?
 
+![diagram](images/taste-isnt-the-moat-youre-guarding-diagram.svg)
+
+*Taste's gap shrinks with every model release. Sense never converges.*
+
 Watch the gap:
 
 → Taste says: “this landing page looks cheap, fix the spacing.” Sense says: “we don’t need a landing page. We need a WhatsApp message to 12 people.”

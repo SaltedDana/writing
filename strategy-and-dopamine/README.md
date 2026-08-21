@@ -10,6 +10,10 @@ That’s Huberman explaining why most of us quit our New Year’s resolutions by
 
 **The Fix**
 
+![diagram](images/strategy-and-dopamine-diagram.svg)
+
+*Outcome-only motivation collapses after the first stretch. Process-linked motivation holds.*
+
 Strong strategy works the same way. It sustains purpose during execution, not just at the end. It creates frequent progress markers, acknowledges effort in real time, and reconnects tasks to the why. It helps people see who they’re becoming, not just what they’ll deliver.
 
 When dopamine generates during the work itself, momentum maintains itself.

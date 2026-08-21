@@ -8,6 +8,10 @@ I recently came across this [model of the Entrepreneur Journey by Alex Hormozi](
 
 ![](images/image-1.png)
 
+![diagram](images/keep-on-going-diagram.svg)
+
+*Redrawn in the June system, stage 3 highlighted.*
+
 1.  **Uninformed Optimism** – Fired up and full of ideas. Everything feels possible… because you don’t know what’s coming.
 
 2.  **Informed Pessimism** – Reality hits. It’s harder than it looked. Doubts sneak in.

@@ -14,6 +14,9 @@ I investigate it with full power. First of all, myself. What’s motivating me? 
 
 ## The Dopamine Loop
 
+![diagram](images/my-hack-for-consistency-that-isnt-diagram.svg)
+*Discipline depletes. Curiosity doesn't.*
+
 Why not discipline? Because every time you force yourself to do something you don’t want to do, you’re burning through a finite reserve of mental energy.
 
 Discipline relies on norepinephrine. That’s stress, effort, the biological “push.” You know the feeling. Gritting your teeth through a workout. Dragging yourself to write when you don’t want to. It’s exhausting because you’re literally fighting your own resistance. It works for short bursts. But as a long-term strategy for consistency? It fails. Not because you’re weak. Because biology doesn’t scale that way.

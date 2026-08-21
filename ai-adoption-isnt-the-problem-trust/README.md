@@ -10,6 +10,10 @@ About 75% of organizations use it in at least one function. And yet, most compan
 
 **The uncomfortable truth is this: better AI models rarely fixes adoption. It is actually the other way around. Better adoption fixes the AI dissonance.**
 
+![diagram](images/ai-adoption-isnt-the-problem-trust-diagram.svg)
+
+*Transparency and hands-on training build trust. Trust drives adoption, not the other way around.*
+
 **While AI pilots are easy to launch, scaling for real value is a much steeper climb.** Across industries, many initiatives stall after early demos. Not because the models are bad, but because the organization isn’t ready. Data is fragmented. Ownership is unclear. And no one knows who’s accountable when the model is wrong.
 
 **Transparency is the bridge here**; it builds trust by making these limits and responsibilities explicit. Explainable systems show how decisions are made, where models fail, and exactly where humans must step in. Black boxes kill confidence (also true for personal relationship).

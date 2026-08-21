@@ -1,0 +1,33 @@
+<svg viewBox="0 0 700 360" xmlns="http://www.w3.org/2000/svg" font-family="'Manrope', sans-serif">
+  <!-- background -->
+  <rect x="0" y="0" width="700" height="360" fill="#FFFFFF"/>
+  <rect x="60" y="40" width="600" height="256" fill="#F5F9FC"/>
+
+  <!-- axis: two straight strips forming an L -->
+  <rect x="60" y="290" width="600" height="6" fill="#4A4A4D"/>
+  <rect x="57" y="40" width="6" height="256" fill="#4A4A4D"/>
+
+  <!-- axis end labels -->
+  <text x="660" y="316" font-size="13" fill="#6E6E73" text-anchor="end" letter-spacing="1">TIME</text>
+  <text x="40" y="48" font-size="13" fill="#6E6E73" text-anchor="start" letter-spacing="1">VALUE</text>
+
+  <!-- Line B: HUMAN AUTHENTICITY, low-left to high-right -->
+  <line x1="80" y1="266" x2="640" y2="66" stroke="#FC7142" stroke-width="6"/>
+
+  <!-- Line A: SYNTHETIC PERFECTION, high-left to low-right -->
+  <line x1="80" y1="66" x2="640" y2="266" stroke="#3292FF" stroke-width="6"/>
+
+  <!-- line labels -->
+  <text x="80" y="50" font-family="'Rubik Mono One', monospace" font-size="15" fill="#3292FF" text-anchor="start">SYNTHETIC PERFECTION</text>
+  <text x="80" y="288" font-family="'Rubik Mono One', monospace" font-size="15" fill="#FC7142" text-anchor="start">HUMAN AUTHENTICITY</text>
+
+  <!-- elbow connector from crossing point down to the singularity label -->
+  <polyline points="360,196 360,214 360,222" fill="none" stroke="rgba(17,17,17,0.12)" stroke-width="2"/>
+
+  <!-- diamond marker at the crossing point (square rotated 45deg) -->
+  <rect x="342" y="152" width="36" height="36" fill="#4A4A4D" transform="rotate(45 360 170)"/>
+
+  <!-- singularity label -->
+  <text x="360" y="238" font-family="'Rubik Mono One', monospace" font-size="12" fill="#4A4A4D" text-anchor="middle">THE AUTHENTICITY</text>
+  <text x="360" y="254" font-family="'Rubik Mono One', monospace" font-size="12" fill="#4A4A4D" text-anchor="middle">SINGULARITY</text>
+</svg>

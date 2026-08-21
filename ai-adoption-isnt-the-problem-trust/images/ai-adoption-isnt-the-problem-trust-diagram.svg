@@ -1,0 +1,44 @@
+<svg viewBox="0 0 700 320" xmlns="http://www.w3.org/2000/svg" font-family="'Manrope', sans-serif">
+  <defs>
+    <marker id="arrow-ink" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <polygon points="0,0 8,4 0,8" fill="#4A4A4D"/>
+    </marker>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="700" height="320" fill="#FFFFFF"/>
+
+  <!-- TOP ROW: wrong assumption -->
+  <rect x="50" y="20" width="600" height="70" fill="#7BA3AD" stroke="rgba(17,17,17,0.12)" stroke-width="1"/>
+  <text x="350" y="61" text-anchor="middle" font-family="'Rubik Mono One', monospace" font-size="18" fill="#FFFFFF">BETTER MODELS &#8594; ADOPTION</text>
+  <!-- diagonal strike-through marking this as the wrong assumption -->
+  <line x1="50" y1="20" x2="650" y2="90" stroke="#4A4A4D" stroke-width="3"/>
+
+  <!-- BOTTOM ROW: corrected causality -->
+
+  <!-- Transparency (sage) -->
+  <rect x="50" y="150" width="120" height="60" fill="#D1DDD4" stroke="rgba(17,17,17,0.12)" stroke-width="1"/>
+  <text x="110" y="185" text-anchor="middle" font-family="'Rubik Mono One', monospace" font-size="13" fill="#4A4A4D">TRANSPARENCY</text>
+
+  <!-- Hands-on training (lavender) -->
+  <rect x="50" y="240" width="120" height="60" fill="#CDACFE" stroke="rgba(17,17,17,0.12)" stroke-width="1"/>
+  <text x="110" y="266" text-anchor="middle" font-family="'Rubik Mono One', monospace" font-size="12" fill="#4A4A4D">HANDS-ON</text>
+  <text x="110" y="284" text-anchor="middle" font-family="'Rubik Mono One', monospace" font-size="12" fill="#4A4A4D">TRAINING</text>
+
+  <!-- Trust (orange) -->
+  <rect x="310" y="170" width="120" height="110" fill="#FC7142" stroke="rgba(17,17,17,0.12)" stroke-width="1"/>
+  <text x="370" y="232" text-anchor="middle" font-family="'Rubik Mono One', monospace" font-size="20" fill="#FFFFFF">TRUST</text>
+
+  <!-- Adoption (blue) -->
+  <rect x="560" y="170" width="110" height="110" fill="#3292FF" stroke="rgba(17,17,17,0.12)" stroke-width="1"/>
+  <text x="615" y="232" text-anchor="middle" font-family="'Rubik Mono One', monospace" font-size="17" fill="#FFFFFF">ADOPTION</text>
+
+  <!-- elbow arrows: Transparency -> Trust -->
+  <polyline points="170,180 250,180 250,195 306,195" fill="none" stroke="#4A4A4D" stroke-width="2" marker-end="url(#arrow-ink)"/>
+
+  <!-- elbow arrows: Hands-on training -> Trust -->
+  <polyline points="170,270 250,270 250,255 306,255" fill="none" stroke="#4A4A4D" stroke-width="2" marker-end="url(#arrow-ink)"/>
+
+  <!-- elbow arrow: Trust -> Adoption -->
+  <polyline points="430,225 556,225" fill="none" stroke="#4A4A4D" stroke-width="2" marker-end="url(#arrow-ink)"/>
+</svg>

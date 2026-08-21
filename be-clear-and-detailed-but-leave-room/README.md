@@ -10,6 +10,9 @@ They’re either too abstract, which makes the AI creative but often useless, ge
 
 The sweet spot is clear goals plus clear constraints, paired with collaborative guidance on structure and format. Do that, and the AI stops being a productivity tool and starts becoming a thinking partner, one that can generate ideas beyond your own imagination.
 
+![diagram](images/be-clear-and-detailed-but-leave-room-diagram.svg)
+*The spectrum: too abstract, the sweet spot, too detailed.*
+
 ![](images/image-1.png)
 
 ---

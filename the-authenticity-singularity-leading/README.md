@@ -14,6 +14,10 @@ Ray Kurzweil predicted “The Singularity,” the moment machine intelligence su
 
 When AI can generate flawless strategic roadmaps, polished LinkedIn posts, and perfectly scripted apologies, “perfection” stops signaling excellence. It signals automation. The only currency that holds value is the imperfect human story. Brené Brown has shown how vulnerability and human specificity shape real leadership. Our mistakes, our awkward edges, our personal weirdness: these are precisely what technology can’t mass-produce. At least not yet…
 
+![diagram](images/the-authenticity-singularity-leading-diagram.svg)
+
+*Synthetic perfection declines as human authenticity rises. They cross at the Authenticity Singularity.*
+
 ## Radical Transparency as Strategy
 
 Being “perfect” doesn’t differentiate you anymore. It makes you blend in with the machine. Real strategy now requires **radical transparency** - not oversharing or performative vulnerability, but deliberate exposure of what usually stays hidden. The trade-offs, the failed experiments, the messy logic behind pivots.

@@ -33,6 +33,10 @@ The people who've done those two things in the past 12–18 months are not simpl
 
 That's the moat. And it compounds every week you add to it.
 
+![diagram](images/the-window-is-closing-diagram.svg)
+
+*Proactive vs. passive: the same starting point, two very different destinations.*
+
 ## Part 2: What ClickUp Actually Proved
 
 The standard reading of the ClickUp announcement is "AI is replacing jobs." That's the wrong read.
