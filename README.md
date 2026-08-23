@@ -1,6 +1,6 @@
 # Salted Mind — Writing
 
-Essays on AI, strategy, and human intelligence — leadership, motivation, and the reasoning that doesn't automate away. By Dana Maman, founder of [Salted Mind](https://saltedmind.co).
+Essays on Artificial and Human Intelligence, by Dana Maman, founder of [Salted Mind](https://saltedmind.co) — Seasoned AI Strategy.
 
 ## Featured
 
