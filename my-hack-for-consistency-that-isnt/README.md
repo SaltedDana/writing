@@ -8,6 +8,8 @@ So when I want to eat healthier, swim regularly, write, build and ship more prod
 
 I investigate it with full power. First of all, myself. What’s motivating me? I experiment and get feedback. And simultaneously, I research the biological, psychological, and historical aspects.
 
+<img src="images/cover.png" width="1120" alt="">
+
 ## The Dopamine Loop
 
 Why not discipline? Because every time you force yourself to do something you don’t want to do, you’re burning through a finite reserve of mental energy.
@@ -33,8 +35,6 @@ The moment you shift your internal language from necessity (”I must”) to pos
 ---
 
 **Dana Maman** is an AI Strategist & Builder · [www.saltedmind.co](http://www.saltedmind.co/)
-
-<img src="images/cover.png" width="1120" alt="">
 
 ---
 

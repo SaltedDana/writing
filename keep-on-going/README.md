@@ -4,6 +4,8 @@
 
 I recently came across this [model of the Entrepreneur Journey by Alex Hormozi](https://open.spotify.com/episode/4XymgXUUeQgoP84Xktq4Vc?si=ba84c75c25724d83):
 
+<img src="images/cover.png" width="1120" alt="">
+
 1.  **Uninformed Optimism** – Fired up and full of ideas. Everything feels possible… because you don’t know what’s coming.
 
 2.  **Informed Pessimism** – Reality hits. It’s harder than it looked. Doubts sneak in.
@@ -43,8 +45,6 @@ Because knowing what to do has never been the hard part. The hard part is engine
 **Dana Maman** is an AI Strategist & Builder
 
 [www.saltedmind.co](http://www.saltedmind.co/)
-
-<img src="images/cover.png" width="1120" alt="">
 
 ---
 
