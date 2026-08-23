@@ -88,7 +88,7 @@ The question is not whether your company will change. It's whether you'll be the
 - ClickUp's 100x org — StartupHub
 
 
-<img src="images/cover.jpg" width="280" alt="">
+<img src="images/cover.jpg" width="1120" alt="">
 
 ---
 

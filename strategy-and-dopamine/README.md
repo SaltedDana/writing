@@ -33,7 +33,7 @@ If your strategy isn’t clarifying and sustaining the why, it’s quietly under
 [www.saltedmind.co](http://www.saltedmind.co/)
 
 
-<img src="images/cover.jpeg" width="280" alt="">
+<img src="images/cover.jpeg" width="1120" alt="">
 
 ---
 
