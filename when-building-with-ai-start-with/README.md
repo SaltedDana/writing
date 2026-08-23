@@ -35,7 +35,7 @@ For now, this is the beginning.
 
 ---
 
-**Dana Maman is an AI Builder & Instructor · Strategic Consultant · Product Manager**
+**Dana Maman is an AI Strategist & Builder**
 
 [www.saltedmind.co](http://www.saltedmind.co)
 

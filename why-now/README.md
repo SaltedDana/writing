@@ -18,7 +18,7 @@ The clearest strategies come from being honest about the question behind the que
 
 ---
 
-> **Dana Maman is an AI Builder & Instructor · Strategic Consultant · Product Manager**
+> **Dana Maman is an AI Strategist & Builder**
 >
 > [www.saltedmind.co](http://www.saltedmind.co/)
 

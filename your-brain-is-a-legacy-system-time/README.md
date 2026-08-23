@@ -55,7 +55,7 @@ This is not about speed. It’s about preserving scarce mental energy for the mo
 
 The future of high performers isn’t about being the smartest person in the room. It’s about having the most disciplined architecture for thinking.
 
-**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager
+**Dana Maman** is an AI Strategist & Builder
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 

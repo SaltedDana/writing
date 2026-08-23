@@ -32,7 +32,7 @@ Comment “GREATNESS” and I’ll send you the link.
 
 ---
 
-> **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager\
+> **Dana Maman** is an AI Strategist & Builder\
 > [www.saltedmind.co](http://www.saltedmind.co/)
 
 ---

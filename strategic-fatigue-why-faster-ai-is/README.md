@@ -27,7 +27,7 @@ I’d love to hear your perspective on this. Share your thoughts in the comments
 
 ---
 
-**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager
+**Dana Maman** is an AI Strategist & Builder
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 

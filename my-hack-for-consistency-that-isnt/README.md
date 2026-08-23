@@ -32,7 +32,7 @@ The moment you shift your internal language from necessity (”I must”) to pos
 
 ---
 
-**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · [www.saltedmind.co](http://www.saltedmind.co/)
+**Dana Maman** is an AI Strategist & Builder · [www.saltedmind.co](http://www.saltedmind.co/)
 
 <img src="images/cover.png" width="280" alt="">
 

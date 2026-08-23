@@ -11,7 +11,7 @@ The irony is that everyone obsessing over prompt frameworks is optimizing the wr
 
 I’d love to hear your perspective on this. Share your thoughts in the comments. If this resonated, pass it on to someone who needs it and feel free to subscribe for more.
 
-**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager
+**Dana Maman** is an AI Strategist & Builder
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 
