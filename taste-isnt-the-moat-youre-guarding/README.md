@@ -2,8 +2,6 @@
 
 *2026-06-22*
 
-*<span data-color="#980000" style="color: rgb(152, 0, 0);">\[Hebrew version in the first comment\]</span>*
-
 Everyone says taste is the new moat.
 
 They’re selling you the part that’s already being automated.
@@ -82,7 +80,7 @@ The moat was never taste — taste was always going to converge. The edge is sen
 
 > I’d love to hear your perspective on this. Share your thoughts in the comments. If this resonated, pass it on to someone who needs it and feel free to subscribe for more.
 >
-> **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
+> **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager
 >
 > [www.saltedmind.co](http://www.saltedmind.co/)
 

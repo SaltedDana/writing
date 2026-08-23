@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1000 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Salted Mind: Writing">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&amp;family=Inter:wght@400;600&amp;display=swap');
+    .hand { font-family:'Architects Daughter','Comic Sans MS',cursive; fill:#1f2328; }
+    .sub { font-family:'Inter',system-ui,sans-serif; fill:#6C8F8A; }
+    .meta { font-family:'Inter',system-ui,sans-serif; fill:#6C8F8A; font-size:13px; }
+  </style>
+  <rect x="1" y="1" width="998" height="248" fill="#FBF8F1" stroke="#1f2328" stroke-width="2"/>
+  <rect x="1" y="1" width="250" height="10" fill="#CDACFE"/>
+  <rect x="251" y="1" width="200" height="10" fill="#D1DDD4"/>
+  <rect x="451" y="1" width="330" height="10" fill="#7BA3AD"/>
+  <rect x="781" y="1" width="218" height="10" fill="#FC7142"/>
+  <text x="40" y="115" class="hand" font-size="52" font-weight="700">Salted Mind:</text>
+  <text x="40" y="165" class="hand" font-size="52" font-weight="700">Writing</text>
+  <text x="40" y="205" class="sub" font-size="18">Essays on Artificial and Human Intelligence.</text>
+  <text x="40" y="234" class="meta">Dana Maman &#183; saltedmind.co</text>
+</svg>

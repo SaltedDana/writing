@@ -40,7 +40,7 @@ Because knowing what to do has never been the hard part. The hard part is engine
 
 ---
 
-**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
+**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 

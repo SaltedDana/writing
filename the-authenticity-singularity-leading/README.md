@@ -35,7 +35,7 @@ Choose accordingly.
 
 ---
 
-**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner\
+**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager\
 [www.saltedmind.co](http://www.saltedmind.co/)
 
 I’d love to hear your perspective on this. Share your thoughts in the comments. If this resonated, pass it on to someone who needs it and feel free to subscribe for more.

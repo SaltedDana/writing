@@ -10,7 +10,7 @@ Because that habit, not the strategy deck, will decide whether your strategic pl
 
 ---
 
-**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
+**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 

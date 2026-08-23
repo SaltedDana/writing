@@ -1,6 +1,5 @@
-# Salted Mind: Writing
+![Salted Mind: Writing](images/repo-banner.svg)
 
-Essays on Artificial and Human Intelligence.
 By Dana Maman, founder of [Salted Mind](https://saltedmind.co): Seasoned AI Strategy.
 
 ## Featured

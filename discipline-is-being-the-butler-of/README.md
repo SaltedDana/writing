@@ -27,7 +27,7 @@ Instead of reacting late, leaders build capabilities early, so future choices fe
 
 ---
 
-**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
+**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 

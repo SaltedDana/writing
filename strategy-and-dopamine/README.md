@@ -28,7 +28,7 @@ If your strategy isn’t clarifying and sustaining the why, it’s quietly under
 
 ---
 
-**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
+**Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 
