@@ -10,8 +10,8 @@
   <rect x="251" y="1" width="200" height="10" fill="#D1DDD4"/>
   <rect x="451" y="1" width="330" height="10" fill="#7BA3AD"/>
   <rect x="781" y="1" width="218" height="10" fill="#FC7142"/>
-  <text x="40" y="115" class="hand" font-size="52" font-weight="700">Prompting is 10%</text>
-  <text x="40" y="165" class="hand" font-size="52" font-weight="700">Syntax, 90% Clarity</text>
+  <text x="40" y="115" class="hand" font-size="52" font-weight="700">Prompting is 10% Syntax, 90%</text>
+  <text x="40" y="165" class="hand" font-size="52" font-weight="700">Clarity of Thought</text>
   <text x="40" y="205" class="sub" font-size="18">Know what you're asking for: that's the difference</text>
   <text x="40" y="234" class="meta">Dana Maman &#183; saltedmind.co</text>
   <text x="960" y="234" class="meta" text-anchor="end">2026-01-09</text>

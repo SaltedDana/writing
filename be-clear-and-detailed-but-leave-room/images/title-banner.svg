@@ -10,8 +10,8 @@
   <rect x="251" y="1" width="200" height="10" fill="#D1DDD4"/>
   <rect x="451" y="1" width="330" height="10" fill="#7BA3AD"/>
   <rect x="781" y="1" width="218" height="10" fill="#FC7142"/>
-  <text x="40" y="115" class="hand" font-size="52" font-weight="700">Be clear and detailed</text>
-  <text x="40" y="165" class="hand" font-size="52" font-weight="700">but leave room for AI</text>
+  <text x="40" y="115" class="hand" font-size="52" font-weight="700">Be clear and detailed but leave</text>
+  <text x="40" y="165" class="hand" font-size="52" font-weight="700">room for AI to run its magic</text>
   <text x="40" y="205" class="sub" font-size="18">Clear goals plus constraints let AI become a thinking partner.</text>
   <text x="40" y="234" class="meta">Dana Maman &#183; saltedmind.co</text>
   <text x="960" y="234" class="meta" text-anchor="end">2025-12-28</text>

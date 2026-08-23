@@ -10,8 +10,8 @@
   <rect x="251" y="1" width="200" height="10" fill="#D1DDD4"/>
   <rect x="451" y="1" width="330" height="10" fill="#7BA3AD"/>
   <rect x="781" y="1" width="218" height="10" fill="#FC7142"/>
-  <text x="40" y="115" class="hand" font-size="52" font-weight="700">Strategic Fatigue:</text>
-  <text x="40" y="165" class="hand" font-size="52" font-weight="700">Why Faster AI Is Slowing</text>
+  <text x="40" y="115" class="hand" font-size="52" font-weight="700">Strategic Fatigue: Why Faster</text>
+  <text x="40" y="165" class="hand" font-size="52" font-weight="700">AI Is Slowing Teams Down</text>
   <text x="40" y="205" class="sub" font-size="18">Teams drown in options, not starve for ideas</text>
   <text x="40" y="234" class="meta">Dana Maman &#183; saltedmind.co</text>
   <text x="960" y="234" class="meta" text-anchor="end">2026-01-07</text>

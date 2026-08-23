@@ -10,9 +10,9 @@
   <rect x="251" y="1" width="200" height="10" fill="#D1DDD4"/>
   <rect x="451" y="1" width="330" height="10" fill="#7BA3AD"/>
   <rect x="781" y="1" width="218" height="10" fill="#FC7142"/>
-  <text x="40" y="105" class="hand" font-size="52" font-weight="700">The Dopamine Dip</text>
-  <text x="40" y="160" class="hand" font-size="52" font-weight="700">Why Your Grand Plans</text>
-  <text x="40" y="215" class="hand" font-size="52" font-weight="700">Go Poof</text>
+  <text x="40" y="105" class="hand" font-size="52" font-weight="700">The Dopamine Dip: Why Your</text>
+  <text x="40" y="160" class="hand" font-size="52" font-weight="700">Grand Plans Go Poof (And</text>
+  <text x="40" y="215" class="hand" font-size="52" font-weight="700">How to Pump Them Up)</text>
   <text x="40" y="255" class="sub" font-size="18">Process motivation sustains execution better than outcome-only rewards</text>
   <text x="40" y="284" class="meta">Dana Maman &#183; saltedmind.co</text>
   <text x="960" y="284" class="meta" text-anchor="end">2025-12-30</text>
