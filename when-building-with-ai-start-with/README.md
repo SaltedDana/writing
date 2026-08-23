@@ -41,7 +41,7 @@ For now, this is the beginning.
 
 ---
 
-<img src="images/cover.png" width="280" alt="">
+<img src="images/cover.png" width="1120" alt="">
 
 ---
 

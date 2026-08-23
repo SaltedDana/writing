@@ -31,7 +31,7 @@ Instead of reacting late, leaders build capabilities early, so future choices fe
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 
-<img src="images/cover.png" width="280" alt="">
+<img src="images/cover.png" width="1120" alt="">
 
 ---
 

@@ -22,7 +22,7 @@ The clearest strategies come from being honest about the question behind the que
 >
 > [www.saltedmind.co](http://www.saltedmind.co/)
 
-<img src="images/cover.png" width="280" alt="">
+<img src="images/cover.png" width="1120" alt="">
 
 ---
 
