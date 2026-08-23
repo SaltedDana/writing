@@ -16,13 +16,13 @@ Sometimes the answer is uncomfortable: fear, urgency, insecurity, impatience. Bu
 
 The clearest strategies come from being honest about the question behind the question.
 
+<img src="images/cover.png" width="1120" alt="">
+
 ---
 
 > **Dana Maman is an AI Strategist & Builder**
 >
 > [www.saltedmind.co](http://www.saltedmind.co/)
-
-<img src="images/cover.png" width="1120" alt="">
 
 ---
 

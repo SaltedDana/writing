@@ -12,6 +12,7 @@ Most strategy frameworks treat this as noise. That’s a mistake.
 
 Because the ghost is signal.
 
+<img src="images/cover.png" width="1120" alt="">
 
 The best leaders don’t call it out aggressively. They surface it safely.
 
@@ -34,8 +35,6 @@ I’d love to hear your perspective on this. Share your thoughts in the comments
 **Dana Maman** is an AI Strategist & Builder
 
 [www.saltedmind.co](http://www.saltedmind.co/)
-
-<img src="images/cover.png" width="1120" alt="">
 
 ---
 
