@@ -14,6 +14,8 @@ I’m thinking about this now. A few months after launching Salted Mind - my hom
 
 For years I wanted to build something of my own and never dared. And here I am.
 
+<img src="images/cover.png" width="1120" alt="">
+
 It would make a better story if I told you I had that same level of knowing when I launched my business - but honestly, I didn’t. (Doubts and fears, though? Those I had plenty of.)
 
 Fast forward to today - I’m doing really well and genuinely happy with what I’ve built. At the same time, I notice there are things I’m treating as impossible, and I feel like my growth is being limited by my ability to *imagine* how far I can actually go. \[Side note: I see this with my clients too, and I always make sure we stretch the boundaries of “what’s possible” before we start analyzing optimal choices - not the other way around.\]
@@ -62,8 +64,6 @@ Comment “GREATNESS” and I’ll send you the link.
 כתבו בתגובה ״גרייטנס״ ואשלח קישור לקבוצה.
 
 כתבו לי ״ספרי מה עלה בגורלה של האהבה ההיא?״ ואשלח לכם
-
-<img src="images/cover.png" width="1120" alt="">
 
 ---
 

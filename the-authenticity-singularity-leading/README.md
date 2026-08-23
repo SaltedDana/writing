@@ -38,9 +38,9 @@ Choose accordingly.
 **Dana Maman** is an AI Strategist & Builder\
 [www.saltedmind.co](http://www.saltedmind.co/)
 
-I’d love to hear your perspective on this. Share your thoughts in the comments. If this resonated, pass it on to someone who needs it and feel free to subscribe for more.
-
 <img src="images/cover.png" width="1120" alt="">
+
+I’d love to hear your perspective on this. Share your thoughts in the comments. If this resonated, pass it on to someone who needs it and feel free to subscribe for more.
 
 ---
 
