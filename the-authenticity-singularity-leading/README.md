@@ -2,8 +2,6 @@
 
 *2026-01-09*
 
-![cover](images/cover.jpg)
-
 I used to think authenticity was my superpower. Then I paid for it enough times that I started wondering if it was actually my biggest flaw. Being real, not playing the sterile corporate game, refusing to follow the unwritten protocol everyone else had memorized - it cost me. More than once…
 
 But here’s what I’ve learned: the game is changing. The thing that used to be a liability is becoming the only advantage that matters.
@@ -40,9 +38,9 @@ Choose accordingly.
 **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner\
 [www.saltedmind.co](http://www.saltedmind.co/)
 
-![](images/image-1.png)
-
 I’d love to hear your perspective on this. Share your thoughts in the comments. If this resonated, pass it on to someone who needs it and feel free to subscribe for more.
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

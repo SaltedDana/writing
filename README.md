@@ -1,6 +1,6 @@
 # Salted Mind — Writing
 
-Essays on AI strategy, organizations, leadership, and personal practice. Mirrored from [saltedmind.substack.com](https://saltedmind.substack.com), see [saltedmind.co](https://saltedmind.co) for the full practice.
+Essays on AI, strategy, and human intelligence — leadership, motivation, and the reasoning that doesn't automate away. By Dana Maman, founder of [Salted Mind](https://saltedmind.co).
 
 ## Featured
 

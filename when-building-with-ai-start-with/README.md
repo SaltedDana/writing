@@ -2,8 +2,6 @@
 
 *2025-12-25*
 
-![cover](images/cover.jpg)
-
 A solo entrepreneur reached out to me yesterday for guidance on building an AI-based app. My first instruction surprised them:
 
 **Start with a pen and paper.**
@@ -41,9 +39,9 @@ For now, this is the beginning.
 
 [www.saltedmind.co](http://www.saltedmind.co)
 
-![](images/image-1.png)
-
 ---
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

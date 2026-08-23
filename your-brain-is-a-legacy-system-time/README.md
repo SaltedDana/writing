@@ -2,8 +2,6 @@
 
 *2026-01-08*
 
-![cover](images/cover.jpg)
-
 A Series B founder I know spent three hours last Tuesday reviewing AI-generated product specs. Not writing them. Not deciding strategy. Just checking whether the machine had hallucinated technical details, mixed up customer quotes, or drifted from the company’s actual architecture.
 
 I hate to say it but she is a $400/hour spellchecker for a chatbot.
@@ -11,8 +9,6 @@ I hate to say it but she is a $400/hour spellchecker for a chatbot.
 This is the new failure mode: senior leaders burning their most expensive cognitive resource - deliberate, strategic thinking - to manually sanity-check a machine’s instinctive output.
 
 We are living through a biological crisis disguised as a technological revolution.
-
-![](images/image-1.png)
 
 ## The Glucose Tax
 
@@ -62,6 +58,8 @@ The future of high performers isn’t about being the smartest person in the roo
 **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
 
 [www.saltedmind.co](http://www.saltedmind.co/)
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

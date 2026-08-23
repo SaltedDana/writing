@@ -2,8 +2,6 @@
 
 *2026-01-29*
 
-![cover](images/cover.jpeg)
-
 I started noticing something unexpected. My thinking patterns shifted. My communication changed. I mean in real life, with biological humans.
 
 This part rarely shows up in conversations about AI.
@@ -13,8 +11,6 @@ We talk endlessly about how AI learns from us. That’s true by design. Models i
 What we talk about less is how we change in return.
 
 Not intentionally. Not consciously. Just by using it frequently. Personally, I started feeling it after using AI tools intensively for more than a year, but I assume this is individual.
-
-![](images/image-1.jpg)
 
 So what has changed?
 
@@ -38,6 +34,8 @@ I’d love to hear your perspective on this. Share your thoughts in the comments
 
 **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner\
 [www.saltedmind.co](http://www.saltedmind.co/)
+
+<img src="images/image-1.jpg" width="280" alt="">
 
 ---
 

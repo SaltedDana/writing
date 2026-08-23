@@ -2,8 +2,6 @@
 
 *2026-01-05*
 
-![cover](images/cover.jpg)
-
 It’s not on the agenda, but it drives the outcome.
 
 Fear, insecurity, reputation risk, past failures, the need to protect a team or an identity. It shows up disguised as logic.
@@ -13,8 +11,6 @@ You see it when debates get oddly emotional, when someone goes silent, or when t
 Most strategy frameworks treat this as noise. That’s a mistake.
 
 Because the ghost is signal.
-
-![](images/image-1.png)
 
 
 The best leaders don’t call it out aggressively. They surface it safely.
@@ -38,6 +34,8 @@ I’d love to hear your perspective on this. Share your thoughts in the comments
 **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
 
 [www.saltedmind.co](http://www.saltedmind.co/)
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

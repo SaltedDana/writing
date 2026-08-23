@@ -2,10 +2,6 @@
 
 *2025-12-30*
 
-![cover](images/cover.jpg)
-
-![](images/image-1.png)
-
 I’ve been experimenting with a small mindset trick I came up with while swimming.
 
 Over the last period, whenever I went to the pool, I kept swimming for a few extra laps after I’d already hit my goal. The intention wasn’t performance; it was psychology.
@@ -17,6 +13,8 @@ I believe tiny changes in how we log an activity can completely change our perce
 ---
 
 I’d love to hear your perspective on this. Share your thoughts in the comments. If this resonated, pass it on to someone who needs it and feel free to subscribe for more.
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

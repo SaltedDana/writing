@@ -2,10 +2,6 @@
 
 *2026-01-07*
 
-![cover](images/cover.jpg)
-
-![](images/image-1.png)
-
 AI is fast. Too fast.
 
 Most teams are drowning in options, not starving for ideas. Every AI prompt spits out dozens of strategies, angles, and next steps. The result is not clarity. It is paralysis.
@@ -34,6 +30,8 @@ I’d love to hear your perspective on this. Share your thoughts in the comments
 **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
 
 [www.saltedmind.co](http://www.saltedmind.co/)
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

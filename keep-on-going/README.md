@@ -2,11 +2,7 @@
 
 *2025-12-28*
 
-![cover](images/cover.jpg)
-
 I recently came across this [model of the Entrepreneur Journey by Alex Hormozi](https://open.spotify.com/episode/4XymgXUUeQgoP84Xktq4Vc?si=ba84c75c25724d83):
-
-![](images/image-1.png)
 
 1.  **Uninformed Optimism** – Fired up and full of ideas. Everything feels possible… because you don’t know what’s coming.
 
@@ -47,6 +43,8 @@ Because knowing what to do has never been the hard part. The hard part is engine
 **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
 
 [www.saltedmind.co](http://www.saltedmind.co/)
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

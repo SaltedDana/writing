@@ -2,8 +2,6 @@
 
 *2026-06-22*
 
-![cover](images/cover.jpg)
-
 *<span data-color="#980000" style="color: rgb(152, 0, 0);">\[Hebrew version in the first comment\]</span>*
 
 Everyone says taste is the new moat.
@@ -13,8 +11,6 @@ They’re selling you the part that’s already being automated.
 Here’s the move nobody’s making: hand AI the taste, keep the part that actually pays — and stop confusing the two.
 
 Because taste and sense are not the same thing. And the difference is your whole job now.
-
-![](images/image-1.png)
 
 **Taste is a verdict.** It answers one question: is this output good? **Sense is an aim.** It answers a different one: is this even worth making?
 
@@ -89,6 +85,8 @@ The moat was never taste — taste was always going to converge. The edge is sen
 > **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
 >
 > [www.saltedmind.co](http://www.saltedmind.co/)
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

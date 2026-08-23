@@ -2,8 +2,6 @@
 
 *2025-12-31*
 
-![cover](images/cover.jpg)
-
 Chase Hughes often frames discipline as caretaking across time, acting in ways that make life easier for your future self.
 
 At the company level, this is a powerful way to describe what strong strategy leaders actually do.
@@ -33,7 +31,7 @@ Instead of reacting late, leaders build capabilities early, so future choices fe
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 
-![](images/image-1.png)
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

@@ -2,8 +2,6 @@
 
 *2026-01-01*
 
-![cover](images/cover.jpg)
-
 The uncomfortable truth is that goals are cheap. Execution is expensive. And execution does not come from ambition. It comes from habits. Small, consistent behaviors that guide decisions when pressure, ambiguity, and distractions show up.
 
 So ask yourself: what habit are you practicing today that keeps your company on course?
@@ -16,7 +14,7 @@ Because that habit, not the strategy deck, will decide whether your strategic pl
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 
-![](images/image-1.png)
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

@@ -2,15 +2,13 @@
 
 *2025-12-28*
 
-![cover](images/cover.jpg)
-
 Most people get prompting wrong in one of two ways.
 
 They’re either too abstract, which makes the AI creative but often useless, generic, or way off target. Or they’re too detailed, which turns the AI into a mirror that only reflects what they already know.
 
 The sweet spot is clear goals plus clear constraints, paired with collaborative guidance on structure and format. Do that, and the AI stops being a productivity tool and starts becoming a thinking partner, one that can generate ideas beyond your own imagination.
 
-![](images/image-1.png)
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

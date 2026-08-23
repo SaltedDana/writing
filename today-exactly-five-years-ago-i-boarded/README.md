@@ -2,8 +2,6 @@
 
 *2026-03-09*
 
-![cover](images/cover.jpg)
-
 *\[Hebrew below\]*
 
 I am not sure I can do it. So I go ahead and do it.
@@ -15,8 +13,6 @@ It was hardcore COVID times. Every government office shut down - no way to renew
 I’m thinking about this now. A few months after launching Salted Mind - my home for strategy and AI. A place where I bring together natural intelligence, artificial intelligence, and awareness.
 
 For years I wanted to build something of my own and never dared. And here I am.
-
-![](images/image-1.png)
 
 It would make a better story if I told you I had that same level of knowing when I launched my business - but honestly, I didn’t. (Doubts and fears, though? Those I had plenty of.)
 
@@ -66,6 +62,8 @@ Comment “GREATNESS” and I’ll send you the link.
 כתבו בתגובה ״גרייטנס״ ואשלח קישור לקבוצה.
 
 כתבו לי ״ספרי מה עלה בגורלה של האהבה ההיא?״ ואשלח לכם
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

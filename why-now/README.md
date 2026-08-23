@@ -2,8 +2,6 @@
 
 *2025-12-26*
 
-![cover](images/cover.jpg)
-
 Before starting any strategic work, I try to rewind the tape.
 
 I don’t start with the problem. I start with the moment.
@@ -18,13 +16,13 @@ Sometimes the answer is uncomfortable: fear, urgency, insecurity, impatience. Bu
 
 The clearest strategies come from being honest about the question behind the question.
 
-![](images/image-1.png)
-
 ---
 
 > **Dana Maman is an AI Builder & Instructor · Strategic Consultant · Product Manager**
 >
 > [www.saltedmind.co](http://www.saltedmind.co/)
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 

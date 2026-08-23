@@ -2,15 +2,11 @@
 
 *2026-01-10*
 
-![cover](images/cover.jpg)
-
 Perhaps it’s the rebellion side in me. Or maybe it’s the healthy, loving one. Nonetheless, I refuse to adopt a habit by using discipline.
 
 So when I want to eat healthier, swim regularly, write, build and ship more products, I need to find a way to “stay into it” for the long run.
 
 I investigate it with full power. First of all, myself. What’s motivating me? I experiment and get feedback. And simultaneously, I research the biological, psychological, and historical aspects.
-
-![](images/image-1.png)
 
 ## The Dopamine Loop
 
@@ -37,6 +33,8 @@ The moment you shift your internal language from necessity (”I must”) to pos
 ---
 
 **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner · [www.saltedmind.co](http://www.saltedmind.co/)
+
+<img src="images/image-1.png" width="280" alt="">
 
 ---
 
