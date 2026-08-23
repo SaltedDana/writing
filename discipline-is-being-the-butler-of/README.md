@@ -1,4 +1,4 @@
-# Discipline Is Being the Butler of the Future. Strategy Is the Same.
+![Discipline Is Being the Butler of the Future. Strategy Is the Same.](images/title-banner.svg)
 
 *2025-12-31*
 
@@ -12,9 +12,6 @@ They don’t just decide where the company should go.\
 They make it easier for the company ‘of tomorrow’ to get there.
 
 ### What this looks like in practice
-
-![diagram](images/discipline-is-being-the-butler-of-diagram.svg)
-*Observe, commit early, remove friction, build capability, all feeding the same outcome: future self, easier.*
 
 **1) Strong observation**\
 Effective leaders invest heavily in noticing. Customer behavior, internal friction, incentive misalignment, early market shifts. Most “strategic insight” comes from better inputs, not smarter opinions.

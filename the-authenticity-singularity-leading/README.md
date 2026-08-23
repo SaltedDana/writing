@@ -1,4 +1,4 @@
-# The Authenticity Singularity: Leading in a World of Perfect Fakes
+![The Authenticity Singularity: Leading in a World of Perfect Fakes](images/title-banner.svg)
 
 *2026-01-09*
 
@@ -14,9 +14,6 @@ Ray Kurzweil predicted “The Singularity,” the moment machine intelligence su
 
 When AI can generate flawless strategic roadmaps, polished LinkedIn posts, and perfectly scripted apologies, “perfection” stops signaling excellence. It signals automation. The only currency that holds value is the imperfect human story. Brené Brown has shown how vulnerability and human specificity shape real leadership. Our mistakes, our awkward edges, our personal weirdness: these are precisely what technology can’t mass-produce. At least not yet…
 
-![diagram](images/the-authenticity-singularity-leading-diagram.svg)
-
-*Synthetic perfection declines as human authenticity rises. They cross at the Authenticity Singularity.*
 
 ## Radical Transparency as Strategy
 

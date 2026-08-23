@@ -1,0 +1,16 @@
+I've written a personal essay about boarding a flight to New York during hardcore COVID lockdowns, when every government office and embassy was shut, to go see someone I loved, running only on a private certainty that had nothing to do with the facts on the ground. That same certainty later became the template for launching my own business, and for a daily practice of doing one thing I'm not sure I can pull off.
+
+I want a single visual for this piece, in the visual language of my brand, Salted Mind.
+
+Brand constraint: black and white only, no color. Hand-drawn, architectural, blueprint feel. Typography matters — Amatic SC for any labels, a clean geometric sans for anything else. Texture: a subtle dotted grid or graph-paper background is allowed. No emojis, no 3D, no glow, no corporate stock-diagram look.
+
+Metaphor to use: a beach at low tide. Everything is submerged and closed except for one narrow path the tide has just revealed. Use this metaphor and no other — don't blend it with anything else.
+
+Composition idea to consider (adapt freely): a single set of footprints crossing a low-tide beach where the water has pulled back just enough to expose one walkable strip of sand, with everything on either side still underwater or shut off by tide lines. The mood should read as quiet, resolved, unhurried — not dramatic or triumphant. It's about knowing, not conquering.
+
+Deliver in this order:
+1. A one-paragraph description of the composition you chose and why it fits.
+2. The image (or an SVG/Mermaid sketch first, if image generation is off).
+3. A short list of what you deliberately left out and why.
+
+Don't ask clarifying questions before the first pass. Show me something, then I'll react.

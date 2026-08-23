@@ -1,4 +1,4 @@
-# The Window Is Closing
+![The Window Is Closing](images/title-banner.svg)
 
 *2026-05-23*
 
@@ -32,10 +32,6 @@ Build a system around that specificity, not just open a chat window
 The people who've done those two things in the past 12–18 months are not simply faster. They are operating in a different category. Not because their AI is better — the models are nearly identical. Because their context is better. They've built the thing nobody can copy: a structured record of their own judgment, preferences, and domain expertise that an AI can actually use.
 
 That's the moat. And it compounds every week you add to it.
-
-![diagram](images/the-window-is-closing-diagram.svg)
-
-*Proactive vs. passive: the same starting point, two very different destinations.*
 
 ## Part 2: What ClickUp Actually Proved
 

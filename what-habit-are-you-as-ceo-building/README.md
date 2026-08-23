@@ -1,4 +1,4 @@
-# What habit are you, as CEO, building today to guarantee your company is heading in the right direction?
+![What habit are you, as CEO, building today to guarantee your company is heading in the right direction?](images/title-banner.svg)
 
 *2026-01-01*
 

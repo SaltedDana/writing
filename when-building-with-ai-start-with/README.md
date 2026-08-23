@@ -1,4 +1,4 @@
-# When building with AI, sometimes the best thing you can do is start with a pen and paper
+![When building with AI, sometimes the best thing you can do is start with a pen and paper](images/title-banner.svg)
 
 *2025-12-25*
 
@@ -11,9 +11,6 @@ A solo entrepreneur reached out to me yesterday for guidance on building an AI-b
 I’ve spent years working as a **product manager and strategic consultant**, and over the last couple of years I’ve become deeply **passionate about AI** - spending my days (and nights) experimenting, building, teaching, and helping others apply it in real products.
 
 That’s exactly why I insist on this starting point.
-
-![diagram](images/when-building-with-ai-start-with-diagram.svg)
-*Pen and paper first, AI second - not the other way around.*
 
 Brainstorming is the art of **expansion and focus**. Starting with AI feels efficient, but it often sends us in the wrong direction. I fall into this trap myself - generating, refining, and improving things that shouldn’t exist to begin with. AI expands possibilities before we’ve chosen what actually moves the needle.
 

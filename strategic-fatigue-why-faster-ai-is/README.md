@@ -1,4 +1,4 @@
-# Strategic Fatigue: Why Faster AI Is Slowing Teams Down
+![Strategic Fatigue: Why Faster AI Is Slowing Teams Down](images/title-banner.svg)
 
 *2026-01-07*
 
@@ -12,8 +12,6 @@ Most teams are drowning in options, not starving for ideas. Every AI prompt spit
 
 Here’s the mistake: leaders optimize for output speed instead of decision speed.
 
-![diagram](images/strategic-fatigue-why-faster-ai-is-diagram.svg)
-*Fifty outputs, one filter, one decision.*
 
 Your brain cannot process 1,000 options per minute. Neither can your team. When AI floods the system, people stop thinking critically and start approving things just to move on. That is operational debt.
 

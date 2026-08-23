@@ -1,4 +1,4 @@
-# Visiting the Crisis of Meaning Is Like Visiting an Old Friend
+![Visiting the Crisis of Meaning Is Like Visiting an Old Friend](images/title-banner.svg)
 
 *2025-12-28*
 
@@ -7,10 +7,6 @@
 I recently came across this [model of the Entrepreneur Journey by Alex Hormozi](https://open.spotify.com/episode/4XymgXUUeQgoP84Xktq4Vc?si=ba84c75c25724d83):
 
 ![](images/image-1.png)
-
-![diagram](images/keep-on-going-diagram.svg)
-
-*Redrawn in the June system, stage 3 highlighted.*
 
 1.  **Uninformed Optimism** – Fired up and full of ideas. Everything feels possible… because you don’t know what’s coming.
 

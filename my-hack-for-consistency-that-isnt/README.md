@@ -1,4 +1,4 @@
-# My hack for consistency (that isn't discipline)
+![My hack for consistency (that isn't discipline)](images/title-banner.svg)
 
 *2026-01-10*
 
@@ -13,9 +13,6 @@ I investigate it with full power. First of all, myself. What’s motivating me? 
 ![](images/image-1.png)
 
 ## The Dopamine Loop
-
-![diagram](images/my-hack-for-consistency-that-isnt-diagram.svg)
-*Discipline depletes. Curiosity doesn't.*
 
 Why not discipline? Because every time you force yourself to do something you don’t want to do, you’re burning through a finite reserve of mental energy.
 

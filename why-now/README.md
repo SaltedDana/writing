@@ -1,4 +1,4 @@
-# Why Now Comes Before Why - Sorry, Simon Sinek
+![Why Now Comes Before Why - Sorry, Simon Sinek](images/title-banner.svg)
 
 *2025-12-26*
 
@@ -9,10 +9,6 @@ Before starting any strategic work, I try to rewind the tape.
 I don’t start with the problem. I start with the moment.
 
 **Why is this coming up now?**
-
-![diagram](images/why-now-diagram.svg)
-
-*Sinek starts with why. This essay starts with why now.*
 
 Because strategy doesn’t emerge in a vacuum. It emerges from pressure. A shift. A signal someone noticed and couldn’t unsee. And if you don’t name that pressure explicitly, it will quietly steer every decision you make.
 

@@ -1,4 +1,4 @@
-# AI is changing me.
+![AI is changing me.](images/title-banner.svg)
 
 *2026-01-29*
 
@@ -22,7 +22,9 @@ I’m more explicit now. I give better context. I don’t assume understanding. 
 
 There’s a downside. I’m less patient with inefficient, prolonged communication. That tendency always existed, and now it is amplified.
 
-This didn’t happen overnight. It happened through repetition. Through constant interaction and refinement with an internal expectation of improvement and growth.
+This didn’t happen overnight. It happened through repetition.
+
+Through constant interaction and refinement with an internal expectation of improvement and growth.
 
 Ray Kurzweil imagined human–machine merging as a technological event. Interfaces. Computation. Hardware.
 

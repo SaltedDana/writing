@@ -1,4 +1,4 @@
-# Today, exactly five years ago, I boarded a flight to New York. For love.
+![Today, exactly five years ago, I boarded a flight to New York. For love.](images/title-banner.svg)
 
 *2026-03-09*
 

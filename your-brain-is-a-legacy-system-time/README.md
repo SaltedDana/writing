@@ -1,4 +1,4 @@
-# Your Brain Is a Legacy System. Time for an Upgrade.
+![Your Brain Is a Legacy System. Time for an Upgrade.](images/title-banner.svg)
 
 *2026-01-08*
 
@@ -29,10 +29,6 @@ We are hitting that threshold.
 The modern trap is using high-cost System 2 to verify what AI produces with zero metabolic effort. If you spend your day reviewing every sentence a language model generates, you aren’t leading. You’re stuck in the gray zone of execution - prompting, reviewing, formatting, correcting - while the machine sets the pace.
 
 That loop is the Cognitive Ceiling.
-
-![diagram](images/your-brain-is-a-legacy-system-time-diagram.svg)
-
-*Processor to Architect: the upgrade path, and the three moves that get you there.*
 
 ## From Processor to Architect
 

@@ -1,4 +1,4 @@
-# Fool's Gold or Genius Hack? The Art of Positive Self-Deception
+![Fool's Gold or Genius Hack? The Art of Positive Self-Deception](images/title-banner.svg)
 
 *2025-12-30*
 
