@@ -10,6 +10,8 @@ This is the new failure mode: senior leaders burning their most expensive cognit
 
 We are living through a biological crisis disguised as a technological revolution.
 
+<img src="images/cover.png" width="1120" alt="">
+
 ## The Glucose Tax
 
 In *Thinking, Fast and Slow*, Daniel Kahneman describes System 2 as our slow, logical, effortful mode of thinking. It’s the engine behind strategy, judgment, and difficult trade-offs.
@@ -58,8 +60,6 @@ The future of high performers isn’t about being the smartest person in the roo
 **Dana Maman** is an AI Strategist & Builder
 
 [www.saltedmind.co](http://www.saltedmind.co/)
-
-<img src="images/cover.png" width="1120" alt="">
 
 ---
 
