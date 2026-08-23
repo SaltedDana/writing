@@ -35,7 +35,7 @@ I’d love to hear your perspective on this. Share your thoughts in the comments
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 
-<img src="images/image-1.png" width="280" alt="">
+<img src="images/cover.png" width="280" alt="">
 
 ---
 

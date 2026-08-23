@@ -1,9 +1,6 @@
 ![The Dopamine Dip: Why Your Grand Plans Go Poof (And How to Pump Them Up)](images/title-banner.svg)
 
 *2025-12-30*
-
-![cover](images/cover.jpeg)
-
 > *“*Learn to spike dopamine from effort itself: focusing only on the reward at the end of effort can undermine the process, making the process feel more painful and time feel longer”. \[[Huberman](https://open.spotify.com/episode/42F7z6Z4CB8hJAstRqMCiV?go=1&sp_cid=57480bd34d214ce2e0314a62168aa700&utm_source=embed_player_p&utm_medium=desktop)\]
 
 That’s Huberman explaining why most of us quit our New Year’s resolutions by February. We tie motivation to the finish line - the body, the promotion, the completed project. But dopamine doesn’t wait for outcomes. It rises when effort itself feels meaningful and progress is visible.
@@ -34,6 +31,9 @@ If your strategy isn’t clarifying and sustaining the why, it’s quietly under
 **Dana Maman** is an AI Builder & Instructor · Strategic Consultant · Product Manager · NLP Practitioner
 
 [www.saltedmind.co](http://www.saltedmind.co/)
+
+
+<img src="images/cover.jpeg" width="280" alt="">
 
 ---
 

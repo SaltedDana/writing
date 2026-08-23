@@ -14,7 +14,7 @@ Because that habit, not the strategy deck, will decide whether your strategic pl
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 
-<img src="images/image-1.png" width="280" alt="">
+<img src="images/cover.png" width="280" alt="">
 
 ---
 

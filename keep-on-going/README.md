@@ -44,7 +44,7 @@ Because knowing what to do has never been the hard part. The hard part is engine
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 
-<img src="images/image-1.png" width="280" alt="">
+<img src="images/cover.png" width="280" alt="">
 
 ---
 

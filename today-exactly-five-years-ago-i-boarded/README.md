@@ -63,7 +63,7 @@ Comment “GREATNESS” and I’ll send you the link.
 
 כתבו לי ״ספרי מה עלה בגורלה של האהבה ההיא?״ ואשלח לכם
 
-<img src="images/image-1.png" width="280" alt="">
+<img src="images/cover.png" width="280" alt="">
 
 ---
 

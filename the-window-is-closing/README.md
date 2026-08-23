@@ -1,9 +1,6 @@
 ![The Window Is Closing](images/title-banner.svg)
 
 *2026-05-23*
-
-![cover](images/cover.jpg)
-
 *(Or: "The companies that do it proactively will define what comes next" — Zeb Evans, ClickUp CEO, May 2026)*
 
 ## Opening — the signal
@@ -89,6 +86,9 @@ The question is not whether your company will change. It's whether you'll be the
 - ClickUp cuts 22% of staff, offers $1M salaries in AI restructuring
 - Outnumbered: At $4 billion ClickUp, a 3:1 agent-to-human ratio is rewiring work itself
 - ClickUp's 100x org — StartupHub
+
+
+<img src="images/cover.jpg" width="280" alt="">
 
 ---
 

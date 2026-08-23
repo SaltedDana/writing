@@ -59,7 +59,7 @@ The future of high performers isn’t about being the smartest person in the roo
 
 [www.saltedmind.co](http://www.saltedmind.co/)
 
-<img src="images/image-1.png" width="280" alt="">
+<img src="images/cover.png" width="280" alt="">
 
 ---
 

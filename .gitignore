@@ -11,3 +11,4 @@ url_to_file.json
 raw_bodies/
 images_dl/
 og_check/
+.DS_Store
