@@ -12,6 +12,8 @@ What we talk about less is how we change in return.
 
 Not intentionally. Not consciously. Just by using it frequently. Personally, I started feeling it after using AI tools intensively for more than a year, but I assume this is individual.
 
+<img src="images/cover.jpg" width="1120" alt="">
+
 So what has changed?
 
 I’m more explicit now. I give better context. I don’t assume understanding. I ask better questions. I expect clarity, first from myself, then from others. I even listen better.
@@ -34,8 +36,6 @@ I’d love to hear your perspective on this. Share your thoughts in the comments
 
 **Dana Maman** is an AI Strategist & Builder\
 [www.saltedmind.co](http://www.saltedmind.co/)
-
-<img src="images/cover.jpg" width="1120" alt="">
 
 ---
 
