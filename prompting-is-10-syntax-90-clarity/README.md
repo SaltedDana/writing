@@ -2,6 +2,8 @@
 
 *2026-01-09*
 
+<img src="images/cover.png" width="1120" alt="">
+
 You don’t need a certification in prompt templates. You need to know what you’re asking for. The people getting the best outputs from AI aren’t the ones who memorize delimiters and XML tags, they’re the ones who already knew how to brief a designer, write a creative brief, or explain a technical problem to an engineer without seven follow-up Slack messages.
 
 
@@ -14,8 +16,6 @@ I’d love to hear your perspective on this. Share your thoughts in the comments
 **Dana Maman** is an AI Strategist & Builder
 
 [www.saltedmind.co](http://www.saltedmind.co/)
-
-<img src="images/cover.png" width="1120" alt="">
 
 ---
 
