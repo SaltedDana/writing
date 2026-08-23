@@ -10,6 +10,8 @@ Here’s the move nobody’s making: hand AI the taste, keep the part that actua
 
 Because taste and sense are not the same thing. And the difference is your whole job now.
 
+<img src="images/cover.png" width="1120" alt="">
+
 **Taste is a verdict.** It answers one question: is this output good? **Sense is an aim.** It answers a different one: is this even worth making?
 
 
@@ -83,8 +85,6 @@ The moat was never taste — taste was always going to converge. The edge is sen
 > **Dana Maman** is an AI Strategist & Builder
 >
 > [www.saltedmind.co](http://www.saltedmind.co/)
-
-<img src="images/cover.png" width="1120" alt="">
 
 ---
 
