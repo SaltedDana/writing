@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 350" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="What habit are you, as CEO, building today to guarantee your company is heading in the right direction?">
+<svg viewBox="0 0 1000 350" width="1000" height="350" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="What habit are you, as CEO, building today to guarantee your company is heading in the right direction?">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&amp;family=Inter:wght@400;600&amp;display=swap');
     .hand { font-family:'Architects Daughter','Comic Sans MS',cursive; fill:#1f2328; }

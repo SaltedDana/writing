@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Your Brain Is a Legacy System. Time for an Upgrade.">
+<svg viewBox="0 0 1000 250" width="1000" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Your Brain Is a Legacy System. Time for an Upgrade.">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&amp;family=Inter:wght@400;600&amp;display=swap');
     .hand { font-family:'Architects Daughter','Comic Sans MS',cursive; fill:#1f2328; }
